@@ -25,7 +25,7 @@ const Features = () => {
             <div className="card z-2 relative col-span-4 row-span-3 rounded-xl overflow-hidden border-indigo-500 border-2 flex items-center">
               <img src={hero4} alt="Rename" className="opacity-70 blur-[2px]" />
               <span className="absolute inset-0 flex items-center justify-center first-content">
-                <h2 className="text-white lg:text-lg xl:text-2xl font-bold">
+                <h2 className="text-white text-center lg:text-lg xl:text-2xl font-bold">
                   Community Driven Area Renaming
                 </h2>
               </span>
