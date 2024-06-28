@@ -100,12 +100,12 @@ const Features = () => {
               <img src={City} alt="City" className="blur-[2px]" />
               <div className="first-content absolute inset-0 flex items-center justify-center">
                 <h2 className="text-white lg:text-lg xl:text-2xl font-bold">
-                  6
+                  Landmark Filter
                 </h2>
               </div>
               <div className="second-content absolute inset-0 flex items-center justify-center">
                 <h2 className="text-white lg:text-sm xl:text-2xl font-bold">
-                  6
+                  Landmark Filter
                 </h2>
               </div>
             </div>

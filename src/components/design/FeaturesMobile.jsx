@@ -55,13 +55,13 @@ const FeaturesMobile = () => {
       <div className="relative h-full w-full rounded-xl overflow-hidden border-gray-500 border-2 flex items-center justify-center mb-8">
         <img src={City} alt="City" className="opacity-70 blur-[2px]" />
         <span className="absolute inset-0 flex items-center justify-center">
-          <h2 className="text-white text-xl font-bold">Hidden Landmarks</h2>
+          <h2 className="text-white text-xl font-bold">Landmark Filter</h2>
         </span>
       </div>
       <div className="relative h-full w-full rounded-xl overflow-hidden border-gray-500 border-2 flex items-center justify-center mb-8">
         <img src={Weather} alt="Weather" className="opacity-70 blur-[2px]" />
         <span className="absolute inset-0 flex items-center justify-center">
-          <h2 className="text-white text-xl font-bold">Hidden Landmarks</h2>
+          <h2 className="text-white text-xl font-bold">Weather Updates</h2>
         </span>
       </div>
     </div>
