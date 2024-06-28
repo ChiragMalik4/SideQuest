@@ -1,0 +1,13 @@
+.portfolio {
+    position: relative;
+
+    .progress {
+        position: sticky;
+        text-align: center;
+
+        .progressBar {
+            height: 10px;
+            background-color: white;
+        }
+    }
+}
