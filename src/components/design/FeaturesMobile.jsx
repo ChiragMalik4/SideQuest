@@ -12,7 +12,7 @@ const FeaturesMobile = () => {
       <div className="relative h-full w-full rounded-xl overflow-hidden border-gray-500 border-2 flex items-center justify-center mb-8">
         <img src={hero4} alt="Rename" className="opacity-70 blur-[2px]" />
         <span className="absolute inset-0 flex items-center justify-center">
-          <h2 className="text-white text-lg font-bold">
+          <h2 className="text-white text-center text-lg font-bold">
             Community Driven Area Renaming
           </h2>
         </span>
