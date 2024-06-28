@@ -1,7 +1,7 @@
 import warning from "../assets/Roadmap/warning.jpeg";
 import realestate from "../assets/Roadmap/realestate.jpeg";
 import people from "../assets/Roadmap/people.jpeg";
-import chat from "../assets/Roadmap/chat.jpeg";
+import interact from "../assets/Roadmap/interact.jpeg";
 
 export const ideas = [
   {
@@ -20,7 +20,7 @@ export const ideas = [
     desc: "Find profiles of people living near you.",
   },
   {
-    img: chat,
+    img: interact,
     title: "Chat and Connect",
     desc: "Follow and converse with people living in your locality.",
   },
